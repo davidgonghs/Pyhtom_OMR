@@ -8,7 +8,7 @@
 #  NOTES :
 #       None
 #
-#  AUTHOR :    B1499 JEREMY PUN
+#  AUTHOR :   
 #
 #  CHANGES :
 #       None
